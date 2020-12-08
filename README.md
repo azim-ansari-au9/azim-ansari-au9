@@ -1,5 +1,5 @@
-### 👋 Hello I am Azim Ansari  
-###  🔭 github azim-ansari-au9
+### 👋 Hello I am Azim Ansari ...
+###### FULL STACK WEB DEVELOPER || LEARNER || BLOGGER
 <!--
 **azim-ansari-au9/azim-ansari-au9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
