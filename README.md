@@ -1,6 +1,6 @@
 ### 👋 Hello I am Azim Ansari ...
 ###### FULL STACK WEB DEVELOPER || LEARNER || BLOGGER.
-###### PORTFOLIO- https://azimansari.info/
+###### PORTFOLIO- https://azimansari.info/                                    LINKDIEN- https://www.linkedin.com/in/azim-ansari-37aa421a6/
 <!--
 **azim-ansari-au9/azim-ansari-au9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
